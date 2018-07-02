@@ -1,9 +1,9 @@
 #Gamification with Unity 5.x
-This is the code repository for [Gamification with Unity 5.x](https://www.packtpub.com/game-development/gamification-unity-5x?utm_source=github&utm_medium=repository&utm_campaign=9781786463487), published by [Packt](www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Gamification with Unity 5.x](https://www.packtpub.com/game-development/gamification-unity-5x?utm_source=github&utm_medium=repository&utm_campaign=9781786463487), published by [Packt](https://packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Are you looking at implementing gamification techniques for your business and wondering where to get a complete rundown of all the tricks and techniques? Well, you have come to the right place!
 ##Instructions and Navigations
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. For example, Chapter 3.
 
 
 
@@ -27,5 +27,7 @@ only requirement from you is to bring your imagination and creativity.
 * [Unity 5.x By Example](https://www.packtpub.com/game-development/unity-5x-example?utm_source=github&utm_medium=repository&utm_campaign=9781785888380)
 
 * [Unity 5.x Animation Cookbook](https://www.packtpub.com/game-development/unity-5x-animation-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785883910)
+
+
 ###Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
